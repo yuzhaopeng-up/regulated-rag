@@ -245,7 +245,7 @@ cd regulatory-policy-rag && python -m pytest tests/ -v
 | [financial-ai-skills](https://github.com/yuzhaopeng-up/financial-ai-skills) | 104 financial AI skills (rule engines) |
 | [soe-compliant-office](https://github.com/yuzhaopeng-up/soe-compliant-office) | 20 SOE-compliant office skills |
 | [skill-framework](https://github.com/yuzhaopeng-up/skill-framework) | L0-L4 skill governance framework |
-| [fintech-h5-demos](https://github.com/yuzhaopeng-up/fintech-h5-demos) | 12 zero-dependency H5 demos |
+| [fintech-h5-demos](https://github.com/yuzhaopeng-up/fintech-h5-demos) | 57 zero-dependency H5 demos |
 | **regulated-rag** (this repo) | Zero-dependency RAG for regulated industries |
 
 ## Contributing
