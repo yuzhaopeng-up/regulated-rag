@@ -1,0 +1,17 @@
+﻿[
+  {"q": "Wealth-Premium理财起购金额是多少", "expected_product": "BankA-Wealth-Management", "expected_section": "申购"},
+  {"q": "Wealth-Premium赎回到账时间", "expected_product": "BankA-Wealth-Management", "expected_section": "申购"},
+  {"q": "Wealth-Premium客户准入资产门槛", "expected_product": "BankA-Wealth-Management", "expected_section": "申购起点"},
+  {"q": "Wealth-Premium理财风险等级有哪些", "expected_product": "BankA-Wealth-Management", "expected_section": "风险"},
+  {"q": "Wealth-Premium投资收益要不要交个人所得税", "expected_product": "BankA-Wealth-Management", "expected_section": "税务"},
+  {"q": "BankD白金卡年费多少", "expected_product": "BankD-Platinum-Card", "expected_section": "年费"},
+  {"q": "BankD白金卡积分多久过期", "expected_product": "BankD-Platinum-Card", "expected_section": "积分"},
+  {"q": "BankD白金卡机场贵宾厅次数", "expected_product": "BankD-Platinum-Card", "expected_section": "出行"},
+  {"q": "BankD白金卡逾期还款怎么算违约金", "expected_product": "BankD-Platinum-Card", "expected_section": "还款"},
+  {"q": "BankD白金卡航空意外险保额", "expected_product": "BankD-Platinum-Card", "expected_section": "保险"},
+  {"q": "BankCSME-Quick-Loan最高额度是多少", "expected_product": "BankC-SME-Loan", "expected_section": "产品要素"},
+  {"q": "BankCSME-Quick-Loan贷款利率多少", "expected_product": "BankC-SME-Loan", "expected_section": "产品要素"},
+  {"q": "BankCSME-Quick-Loan申请需要什么材料", "expected_product": "BankC-SME-Loan", "expected_section": "材料"},
+  {"q": "BankCSME-Quick-Loan 310 模式具体是什么", "expected_product": "BankC-SME-Loan", "expected_section": "申请流程"},
+  {"q": "BankCSME-Quick-Loan贷款资金可以买股票吗", "expected_product": "BankC-SME-Loan", "expected_section": "风控"}
+]
